@@ -1,0 +1,250 @@
+.fullpage {
+    width: 600px;
+    height: 2200px;
+}
+
+.topsection {
+    width: 600px;
+    height: 99px;
+    background-color: #a3b7c7;
+}
+
+.topsection img {
+    width: 220px;
+    height: 20px;
+    margin: 30px;
+}
+
+.manupart {
+    width: 300px;
+    height: 20px;
+    float: right;
+}
+
+.manupart ul li {
+    float: left;
+    list-style-type: none;
+    margin: 10px;
+    transform: translate(-16px);
+}
+
+.manupart ul li a {
+    text-decoration: none;
+}
+
+.firstlayer {}
+
+.firstlayer img {
+    width: 600px;
+    height: 455px;
+}
+
+.secoundlayer {
+    background-color: #c1c1c1;
+    transform: translate(0px, -4px);
+}
+
+.secoundlayer img {
+    width: 570px;
+    height: 150px;
+    margin: 15px;
+}
+
+.thirdlayer {
+    background-color: red;
+    transform: translate(0px, -13px);
+}
+
+.thirdlayer h1 {
+    color: white;
+    height: 20px;
+    width: 600px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.thirdlayer p {
+    color: white;
+    padding: 0px 0px 5px 5px;
+}
+
+.thirdlayer a {
+    text-decoration: none;
+    color: #1414d8;
+}
+
+.fourthlayer {
+    width: 600px;
+    height: 450px;
+    transform: translate(0px, -24px);
+}
+
+.firstsection h1 {
+    float: right;
+    transform: translate(-176px, -20px);
+}
+
+.firstsection p {
+    width: 285px;
+    height: 145px;
+    float: right;
+    transform: translate(-25px, -122px);
+}
+
+.scoundsection {}
+
+.scoundsection h1 {
+    float: right;
+    transform: translate(80px, -165px)
+}
+
+.scoundsection p {
+    width: 285px;
+    height: 145px;
+    float: right;
+    transform: translate(-27px, -196px);
+}
+
+.thirdsection img {
+    transform: translate(0px, -80px);
+}
+
+.thirdsection h1 {
+    float: right;
+    transform: translate(90px, -253px);
+}
+
+.thirdsection p {
+    width: 285px;
+    height: 145px;
+    float: right;
+    transform: translate(-27px, -282px);
+}
+
+.thirdsection a {
+    text-decoration: none;
+}
+
+.fifthlayer {
+    background-color: dodgerblue;
+    transform: translate(0px, -47px);
+}
+
+.fifthlayer h1 {
+    font-size: 19px;
+    padding: 5px;
+}
+
+.fifthlayer p {
+    padding: 5px;
+}
+
+.fifthlayer botton {
+    background-color: #bb8888;
+    float: right;
+    transform: translate(140px, -100px);
+    height: 40px;
+    width: 120px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.sixthlayer {}
+
+.firstcoloum {
+    width: 186px;
+}
+
+.firstcoloum img {
+    float: left;
+    transform: translate(0px, -69px);
+}
+
+.firstcoloum h1 {
+    width: 200px;
+    height: 50px;
+    transform: translate(0px, -74px);
+}
+
+.firstcoloum p {
+    transform: translate(0px, -31px);
+}
+
+.secoundcoloum {}
+
+.secoundcoloum img {
+    float: left;
+    transform: translate(207px, -296px);
+}
+
+.secoundcoloum h1 {
+    width: 200px;
+    height: 50px;
+    transform: translate(200px, -300px);
+}
+
+.secoundcoloum p {
+    width: 186px;
+    transform: translate(200px, -258px);
+}
+
+.thirdcoloum {}
+
+.thirdcoloum img {
+    float: right;
+    transform: translate(0px, -523px);
+}
+
+.thirdcoloum h1 {
+    width: 40px;
+    height: 50px;
+    transform: translate(413px, -392px);
+}
+
+.thirdcoloum p {
+    width: 186px;
+    transform: translate(413px, -422px);
+}
+
+.sevenlayer {
+    background-color: #b7aeae;
+    transform: translate(0px, -437px);
+}
+
+.sevenlayer h1 {
+    transform: translate(19px, 10px);
+}
+
+.sevenlayer p {
+    padding: 10px;
+}
+
+.eigthlayer {
+    height: 200px;
+    background-color: cyan;
+    transform: translate(0px, -453px);
+}
+
+.toppart {
+    transform: translate(10px, 15px);
+}
+
+.contact {
+    transform: translate(146px, -126px);
+}
+
+.contactlogo {
+    float: right;
+    transform: translate(-12px, -260px);
+}
+
+.footerpart {
+    background-color: #96a282;
+    font-size: 11px;
+    padding: 5px;
+    transform: translate(0px, -118px);
+}
+
+.footerpart h2 {
+    transform: translate(66px, 0px);
+}
